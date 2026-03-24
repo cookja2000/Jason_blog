@@ -1,0 +1,27 @@
+{
+    "id": "879BC3B3",
+    "path": "~/test/Blog/essays/garden_1.qmd",
+    "project_path": "essays/garden_1.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1774365793576.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,177",
+        "scrollLine": "5",
+        "marks": "<:12,15\n>:12,15"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774367807,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774367807133,
+    "read_only": false,
+    "read_only_alternatives": []
+}

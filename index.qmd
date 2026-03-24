@@ -1,0 +1,10 @@
+---
+title: "Jason yaps"
+listing:
+  contents: essays
+  sort: "date desc"
+  type: grid
+  max-items: 3
+---
+
+Writing down my thoughts. See below for essay topics:

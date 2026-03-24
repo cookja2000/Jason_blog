@@ -1,0 +1,10 @@
+---
+title: "Essays"
+listing:
+  contents: .         # This looks at all files in the current folder
+  sort: "date desc"   # Newest first
+  type: default       # Options: default, table, or grid
+  categories: true    # Adds a sidebar with tags/categories
+---
+
+This will hopefully be organized soon as I get more essays.
