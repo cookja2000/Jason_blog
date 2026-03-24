@@ -5,6 +5,9 @@
     ],
     "index.qmd": [
       "essays"
+    ],
+    "essays/index.qmd": [
+      "."
     ]
   }
 }
