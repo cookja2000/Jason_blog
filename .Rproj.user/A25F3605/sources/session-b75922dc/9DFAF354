@@ -3,7 +3,7 @@
     "path": "~/test/Blog/essays/index.qmd",
     "project_path": "essays/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1232942657",
     "contents": "",
     "dirty": false,
     "created": 1773764192642.0,
@@ -17,16 +17,16 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "272:0",
-        "cursorPosition": "4,35",
+        "cursorPosition": "9,58",
         "scrollLine": "0",
-        "marks": "<:9,0\n>:9,0"
+        "marks": "<:9,59\n>:9,59"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774365688,
+    "lastKnownWriteTime": 1774368608,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774365688824,
+    "last_content_update": 1774368608443,
     "read_only": false,
     "read_only_alternatives": []
 }

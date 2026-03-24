@@ -1,15 +1,15 @@
 [
   {
-    "listing": "/essays/index.html",
+    "listing": "/index.html",
     "items": [
+      "/essays/index.html",
       "/essays/essay_1.html",
       "/essays/garden_1.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/essays/index.html",
     "items": [
-      "/essays/index.html",
       "/essays/essay_1.html",
       "/essays/garden_1.html"
     ]
