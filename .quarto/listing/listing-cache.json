@@ -1,13 +1,10 @@
 {
   "listingMap": {
-    "essays\\index.qmd": [
+    "essays/index.qmd": [
       "."
     ],
     "index.qmd": [
       "essays"
-    ],
-    "essays/index.qmd": [
-      "."
     ]
   }
 }
