@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/essays/index.html",
+      "/essays/essay_1.html",
+      "/essays/garden_1.html"
+    ]
+  },
+  {
+    "listing": "/essays/index.html",
+    "items": [
+      "/essays/essay_1.html",
+      "/essays/garden_1.html"
+    ]
+  }
+]
