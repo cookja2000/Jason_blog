@@ -3,15 +3,19 @@
     "listing": "/essays/index.html",
     "items": [
       "/essays/essay_1.html",
-      "/essays/garden_1.html"
+      "/essays/Yard Work/index.html"
+    ]
+  },
+  {
+    "listing": "/essays/Yard Work/index.html",
+    "items": [
+      "/essays/Yard Work/garden_1.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/essays/index.html",
-      "/essays/essay_1.html",
-      "/essays/garden_1.html"
+      "/essays/index.html"
     ]
   }
 ]
