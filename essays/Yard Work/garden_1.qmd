@@ -1,0 +1,23 @@
+---
+title: "My Garden"
+description: "Intro to Gardening"
+author: "Jason Cook"
+date: "2026-03-24"
+categories: [Skills, Gardening]
+---
+
+My yard is huge. I mean, it's pretty big. I live on about a 1/6 of an acre property, but my house is only 750 sq ft, so it's big back there. For the first 9 months of living there, we didn't really take care of the yard, so this last 2-3 months I've been grinding trying to clean it up, and now we have some uncovered beds that were under a bunch of tall grass.
+
+![Garden Beds (Newly Exposed)](images/Beds.jpg){width="60%"}
+
+![Other Angle](images/Beds2.jpg){width="60%"}
+
+These are working quite well. I have planted kale, spinach, and arugula in them as of a week ago and they are all starting to sprout! This is the first gardening I've ever done. Here are the updated pictures as of today:
+
+![Arugula](images/Arugula.png){width="60%"}
+
+![Spinach](images/Spinach.png){width="60%"}
+
+![Kale (these guys are barely starting to show)](images/Kale.png){width="60%"}
+
+I hope to be updating this as I grow stuff. It has been fun and rewarding to see it actually growing.

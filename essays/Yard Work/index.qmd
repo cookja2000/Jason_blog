@@ -1,0 +1,12 @@
+---
+title: "Yard Work"
+description: "Everything related to the outdoors."
+# image: images/shovels.png  # This is the thumbnail shown on the Essays page
+listing:
+  contents: .
+  type: grid
+  categories: true
+image: images/tulips.png
+---
+
+This is where I will post yard work updates.
