@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/essays/index.html",
+      "/tweets/index.html"
+    ]
+  },
+  {
     "listing": "/essays/index.html",
     "items": [
       "/essays/essay_1.html",
@@ -13,9 +20,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/tweets/index.html",
     "items": [
-      "/essays/index.html"
+      "/tweets/tweet_1.html"
     ]
   }
 ]
