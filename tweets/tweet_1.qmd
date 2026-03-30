@@ -1,0 +1,8 @@
+---
+title: "S"
+author: "Jason Cook"
+date: "2026-03-26"
+categories: [Tweet]
+---
+
+Why is the letter 'S' so late in the alphabet?

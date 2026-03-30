@@ -9,6 +9,8 @@ website:
         text: Home
       - href: essays/index.qmd
         text: Essays
+      - href: tweets/index.qmd
+        text: Tweets
 
 format:
   html:

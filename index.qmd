@@ -3,9 +3,9 @@ title: "Home"
 listing:
   contents:
     - essays/index.qmd
+    - tweets/index.qmd
   sort: "date desc"
   type: grid
-  max-items: 3
 ---
 
 Click on essays to see essays and topics of essays, and... that's it for right now.
